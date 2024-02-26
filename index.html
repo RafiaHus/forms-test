@@ -13,17 +13,26 @@
     </style>
 </head>
 <body>
+    <main>
+        <form>
    <div class="container">
-   <h2 class="header">
+   <h2 class="main-title">
     Donation Form
    </h2>
-   <h4 class="slogan">
+   <h4 class="main-info">
     Donate- Help someone in need
    </h4>
    <form>
-    <input class="info--name" type="name" placeholder="Full name">
-    <textarea class= "info--text" name="" id="" cols="" rows="">Enter your name</textarea>
-   </form>
+    <label class="label" for="name">Full name</label>
+    <input class="info" type="name" id="name" placeholder="Enter your name">
+    <label class="label" for="email">Email address</label>
+    <input class="info" type="email" id="email" placeholder="Enter your email address">
+    <label class="label" for="donation">What do you wish to donate?</label>
+    <input class="info" type="donation" id="donation" placeholder="Enter your donation">
+    <label class="label" for="message">Your message</label>
+    <input class="info--message" type="message" id="message" placeholder="Enter your message">
+</form>
+</main>
 </div>
 </body>
 </html>
