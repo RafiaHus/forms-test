@@ -50,7 +50,7 @@
     }
 
 .info {
-    width: 911px;
+    width: 908px;
     height: 61px;
     border: 5px solid #17A70B;
     background: #F5F5F5;
@@ -64,6 +64,22 @@
     margin-left: 30px;
     margin-bottom: 20px;
     }
+
+.select {
+    width: 922px;
+    height: 70px;
+    border: 5px solid #17A70B;
+    background: #F5F5F5;
+    color: #000;
+    text-align: left;
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;   
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
 
 .label {
     width: 921px;
@@ -83,18 +99,18 @@
     }
 
 .info--message {
-        width: 911px;
-        height: 144px;
-        border: 5px solid #17A70B;
-        background: #F5F5F5;
-        color: #000;
-        text-align: left;
-        font-family: "Inter", sans-serif;
-        font-size: 24px;
-        font-style: normal;
-        font-weight: 300;
-        line-height: normal;   
-        margin-left: 30px;
+    width: 908px;
+    height: 144px;
+    border: 5px solid #17A70B;
+    background: #F5F5F5;
+    color: #000;
+    text-align: left;
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;  
+    margin-left: 30px;
     }
 
 .button {
