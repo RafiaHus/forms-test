@@ -5,32 +5,32 @@
 }
 
 .container {
-    width: 995px;
-    height: 1022px;
+    width: 600px;
+    height: 1000px;
     border: 5px solid #000;
     background: #9C1806;
-    margin-left: 180px;
+    margin-left: 500px;
 }
 
 .main-title {
-    width: 367px;
-    height: 77px;
+    width: 350px;
+    height: 70px;
     background: #EB3030;
     color: #000;
     display: flex;
     text-align: center;
     font-family: "Inter", sans-serif;
-    font-size: 40px;
+    font-size: 30px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
-    margin-bottom: 15px;
-    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-top: 40px;
     border-radius: 50px 0 50px 0;
     }
 
 .main-info {
-    width: 316px;
+    width: 300px;
     height: 56px;
     background: #EB3030;
     display: flex;
@@ -45,19 +45,19 @@
     font-style: normal;
     font-weight: 700;
     line-height: normal;
-    margin-bottom: 50px;
+    margin-bottom: 80px;
     border-radius: 50px 0 50px 0;
     }
 
 .info {
-    width: 908px;
-    height: 61px;
+    width: 520px;
+    height: 50px;
     border: 5px solid #17A70B;
     background: #F5F5F5;
     color: #000;
     text-align: left;
     font-family: "Inter", sans-serif;
-    font-size: 24px;
+    font-size: 15px;
     font-style: normal;
     font-weight: 300;
     line-height: normal;   
@@ -66,47 +66,45 @@
     }
 
 .select {
-    width: 922px;
-    height: 70px;
+    width: 535px;
+    height: 60px;
     border: 5px solid #17A70B;
     background: #F5F5F5;
     color: #000;
     text-align: left;
     font-family: "Inter", sans-serif;
-    font-size: 24px;
+    font-size: 15px;
     font-style: normal;
     font-weight: 300;
     line-height: normal;   
-    margin-left: 25px;
+    margin-left: 29px;
     margin-bottom: 20px;
 }
 
 .label {
-    width: 921px;
-    height: 38px;
-    background: #EB3030;
-    margin: auto;
+    width: 533px;
+    height: 30px;
+    background: #EB3030; 
     color: #000;
     text-align: left;
     font-family: "Inter", sans-serif;
-    font-size: 24px;
+    font-size: 18px;
     font-style: normal;
     font-weight: 700;
     line-height: normal; 
     border: none;
-    display: flex;
     margin-left: 30px;
     }
 
 .info--message {
-    width: 908px;
+    width: 520px;
     height: 144px;
     border: 5px solid #17A70B;
     background: #F5F5F5;
     color: #000;
     text-align: left;
     font-family: "Inter", sans-serif;
-    font-size: 24px;
+    font-size: 15px;
     font-style: normal;
     font-weight: 300;
     line-height: normal;  
@@ -114,18 +112,18 @@
     }
 
 .button {
-        width: 213px;
+        width: 180px;
         height: 50px;
         border: 5px solid #17A70B;
         background: #EB3030;
         color: #000;
         text-align: center;
         font-family: "Inter", sans-serif;
-        font-size: 24px;
+        font-size: 18px;
         font-style: normal;
         font-weight: 700;
         line-height: normal;
         margin-top: 80px;
-        margin-left: 390px;
+        margin-left: 200px;
         border-radius: 50px 0 50px 0;
 }     
